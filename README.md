@@ -4,6 +4,11 @@
 
 ```ruby
 require "multi_purge"
+
+MultiPurge.one('/foo/bar.html')
+
+MultiPurge.many(['/foo/bar.html', '/bar/foo.css'])
+
 ```
 
 ## Build & Dependency Status
