@@ -3,12 +3,13 @@
 ## Features / Usage Examples
 
 ```ruby
-require "multi_purge"
+require 'multi_purge'
 
 MultiPurge.one('/foo/bar.html')
+# alias :single
 
 MultiPurge.many(['/foo/bar.html', '/bar/foo.css'])
-
+# alias :multiple
 ```
 
 ## Build & Dependency Status
