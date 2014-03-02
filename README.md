@@ -24,10 +24,10 @@ MultiPurge.many(['/foo/bar.html', '/bar/foo.css'])
 
 ## Badges
 
-[![Gem Version](https://badge.fury.io/rb/multi_purge.png)][gem]
-[![Build Status](https://travis-ci.org/karlfreeman/multi_purge.png)][travis]
-[![Code Quality](https://codeclimate.com/github/karlfreeman/multi_purge.png)][codeclimate]
-[![Gittip](http://img.shields.io/gittip/karlfreeman.png)][gittip]
+[![Gem Version](http://img.shields.io/gem/v/multi_purge.svg)][gem]
+[![Build Status](http://img.shields.io/travis/karlfreeman/multi_purge.svg)][travis]
+[![Code Quality](http://img.shields.io/codeclimate/github/karlfreeman/multi_purge.svg)][codeclimate]
+[![Gittip](http://img.shields.io/gittip/karlfreeman.svg)][gittip]
 
 ## Supported CDN Services
 
